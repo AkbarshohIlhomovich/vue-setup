@@ -11,5 +11,5 @@ Yangi Vue.js va Tailwind CSS loyihalarini boshlash uchun tayyor shablon. Faqat y
 ## 💻 O‘rnatish
 1. **Repositoryni klon qiling**:
    ```bash
-   git clone [https://github.com/sizning-repository-link](https://github.com/AkbarshohIlhomovich/vue-setup.git)
+   git clone https://github.com/AkbarshohIlhomovich/vue-setup.git
    cd project-folder
